@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.rocket {
+  width: 150px;
+  margin-bottom: 30px;
+}
+
+h1 {
+  font-size: 1.5em;
+  color: purple;
+  margin-bottom: 10px;
+}
+
+p {
+  color: #555;
+  font-size: 0.95em;
+  margin-bottom: 40px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  padding: 15px 30px;
+}
